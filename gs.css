@@ -19,3 +19,16 @@
 .revenue{
     color: indianred;
 }
+table {
+    border: solid 2px black;
+    color: black;
+    text-align: center;
+    margin: 10px;
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+td,th{
+    padding: 5px;
+}
