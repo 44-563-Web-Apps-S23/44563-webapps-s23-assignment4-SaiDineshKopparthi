@@ -40,3 +40,24 @@ tr:nth-child(even) {
 td,th{
     padding: 5px;
 }
+.image{
+    width: 200px;
+    height: 300px;
+}
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left; 
+    background-color: #2222;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkgray;
+    color:white;
+}
