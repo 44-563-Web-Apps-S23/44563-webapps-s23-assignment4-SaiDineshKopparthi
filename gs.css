@@ -16,8 +16,16 @@
 .luke{
     color: rebeccapurple;
 }
+.luke:hover{
+    text-shadow: 2px 2px 5px turquoise;
+    border: dashed 1.5px teal;
+}
 .revenue{
     color: indianred;
+}
+.revenue:hover{
+    text-shadow: 2px 2px 5px mediumaquamarine;
+    border: solid 1.5px royalblue;
 }
 table {
     border: solid 2px black;
