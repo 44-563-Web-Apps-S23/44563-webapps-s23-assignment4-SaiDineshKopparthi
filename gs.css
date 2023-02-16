@@ -13,6 +13,10 @@
     background-color: brown;
     color: white;
 }
+.name{
+    font-size: 20px;
+    color: black;
+}
 .luke{
     color: rebeccapurple;
 }
